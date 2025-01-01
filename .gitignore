@@ -1,0 +1,61 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Cache and logs
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+.cache/
+.pytest_cache/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+dist/
+build/
+*.egg-info/
+.eggs/
+*.egg
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Testing
+test-results/
+*.test_results
+
+# Configuration files
+*.cfg
+*.ini
+*.yml
+*.yaml
+*.toml
+
+# Other
+*.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.orig
+*.bak
+
+# Deployment
+*.pem
+*.crt
+*.key
